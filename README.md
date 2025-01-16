@@ -1,6 +1,6 @@
 <h1 align="center">hey there 👋</h1>
 
-<h2 align ="center">IOS Developer</h2>
+<h2 align ="center">PHP Developer</h2>
 
 ###
 
