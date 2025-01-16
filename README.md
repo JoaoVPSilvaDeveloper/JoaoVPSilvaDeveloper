@@ -1,6 +1,4 @@
-<h1 align="center">hey there 👋</h1>
-
-<h2 align ="center">PHP Developer</h2>
+<h1 align="center">hey there 👋 João Silva</h1>
 
 ###
 
@@ -19,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Vitor from Brazil but live in Portugal<br><br>- 🔭 I'm focused on IOS Developer<br>- 📚 I'm currently learning Swift/SwiftUI<br>- ⚡ In my free time I Study, study and put into practice</p>
+<p align="left">I'm Vitor from Brazil but live in Portugal<br><br>- 🔭 I'm focused on PHP Developer<br>- 📚 I'm currently learning PHP/LARAVEL<br>- ⚡ In my free time I Study, study and put into practice</p>
 
 ###
 
@@ -28,13 +26,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
 ###
